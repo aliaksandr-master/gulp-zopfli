@@ -1,5 +1,5 @@
 {
-  "name": "gulp-zopfli",
+  "name": "gulp-zopfli-fork",
   "version": "1.0.0",
   "description": "Zopfli compressor for gulp",
   "keywords": [
